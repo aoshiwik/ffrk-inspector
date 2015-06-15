@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFRKScan.Simulator", "FFRKS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{3AF26CF8-490B-4D5D-97F6-A66DF3F513E1}"
 	ProjectSection(SolutionItems) = preProject
-		VisualStudio.gitignore = VisualStudio.gitignore
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Global
